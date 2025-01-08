@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Superexplosion12 (aka supah)
-- 👀 I’m interested in videogames (no shit)
-- 🌱 I’m currently learning C/C++ (help)
-- 💞️ I’m looking to collaborate on anything C related (because I know nothing lol)
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning Python, Java and C/C++ (help)
+- 💞️ I’m looking to collaborate on anything C related (or anything at all)
 - 📫 How to reach me: if you're reading this, you know how
-- 😄 Pronouns: I'm a guy
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have kind of a vague idea how git works now yay
 
 <!---
