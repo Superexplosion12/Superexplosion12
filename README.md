@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superexplosion12 (aka supah)
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning SQL, JavaScript and C/C++ (help)
+- 🌱 I’m currently...
 - 💞️ I’m looking to collaborate on anything C related (or anything at all)
 - 📫 How to reach me: if you're reading this, you know how
 - 😄 Pronouns: He/Him
